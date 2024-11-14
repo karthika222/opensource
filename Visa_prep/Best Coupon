@@ -1,0 +1,5 @@
+x=int(input())
+d1=(10/100)*x
+c1=x-d1
+c2=x-100
+print(int(min(c1,c2)))
