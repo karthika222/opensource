@@ -1,0 +1,5 @@
+x=int(input())
+if x==10:
+    print("25")
+else:
+    print(x-15)
